@@ -1,6 +1,8 @@
-# Desafio Prático de Machine Learning
+# `Desafio Prático de Machine Learning`
 ***
 - [Instituto Centro de Tecnologia e Software](www.icts.org.br)
+- [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/Alyssonmach/desafio-ml-instituto-cts/blob/main/cnn-cats-vs-dogs.ipynb)| [Execute on Binder](https://mybinder.org/v2/gh/Alyssonmach/desafio-ml-instituto-cts/main?filepath=cnn-cats-vs-dogs.ipynb)
+
 
 ### Motivação
 ***
