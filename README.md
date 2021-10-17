@@ -22,7 +22,3 @@ Nessa tarefa, espera-se a concepção de um modelo de Aprendizagem de Máquina c
 |![image1](images/image1.png)|![image3](images/image3.png)|
 |![image2](images/image2.png)|![image4](images/image4.png)|
 > Imagens obtidas utilizando o algoritmo Grad CAM.
-
-### Alguma dúvida? Entre em contato comigo: 
-***
-> - [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br)
