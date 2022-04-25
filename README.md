@@ -1,6 +1,5 @@
 # `Desafio Prático de Machine Learning`
 ***
-- [Instituto Centro de Tecnologia e Software](www.icts.org.br)
 
 ### Motivação
 ***
